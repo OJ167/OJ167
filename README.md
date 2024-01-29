@@ -1,8 +1,8 @@
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Ollie!](https://github.com/OJ167?tab=repositories)
 
 <br/>
 
-
+<!--
 <a href="https://twitter.com/sakigo_09">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,13 +21,13 @@
 <br />
 
 <br />
-
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+-->
+Hi,I'm Ollie Jackson, a PhD student in the school of Engineering at Warwick university. This repository mostly consists of analysis code for my PhD work, with some personal projects sprincled in as well. 
 
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 -->
-
+<!--
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently Intern at CodeCrunch.
@@ -58,3 +58,4 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+-->
