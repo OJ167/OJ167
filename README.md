@@ -22,7 +22,7 @@
 
 <br />
 -->
-Hi,I'm Ollie Jackson, a PhD student in the school of Engineering at Warwick university. This repository mostly consists of analysis code for my PhD work, with some personal projects sprincled in as well. 
+Hi,I'm Ollie Jackson, a PhD student in the school of Engineering at Warwick university. This repository mostly consists of analysis code for my PhD work, with some personal projects sprinkled in as well. 
 
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
