@@ -26,7 +26,12 @@ Hi, I'm Ollie Jackson, a recent PhD graduate in fluid dynamics from the school o
 
 [**➡️ My Completed final PhD Thesis and LaTeX source code can be found here (PDF)**](https://github.com/OJ167/Thesis/CompressedThesis.pdf)
 
-[For my work experience history and education please see my Linkdin page](https://www.linkedin.com/in/o-c-jackson/)
+[**➡️ Analysis codes and Notebooks can be found in this repository**](https://github.com/OJ167/Coding)
+
+[**➡️ For my work experience history and education please see my Linkdin page**](https://www.linkedin.com/in/o-c-jackson/)
+
+<img width="1982" height="1406" alt="image" src="https://github.com/user-attachments/assets/0d71ccde-abea-4ef0-be75-cbd44a090ae8" />
+
 
 
 <!--
