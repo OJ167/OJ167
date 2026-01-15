@@ -24,7 +24,7 @@
 -->
 Hi, I'm Ollie Jackson, a recent PhD graduate in fluid dynamics from the school of Engineering at the University of Warwick experimentally studying the effect of the Coriolis force on vortex-ring breakdown. This GitHub account mostly consists of analysis code for my PhD work, with some personal projects sprinkled in as well. Im now based in London, UK, looking for job roles where I can utilise my analytical, coding, and data visualisation expertise to solve real world problems.
 
-[**➡️ My Completed final PhD Thesis and LaTeX source code can be found here (PDF)**]([CompressedThesis.pdf](https://github.com/OJ167/Thesis/CompressedThesis.pdf))
+[**➡️ My Completed final PhD Thesis and LaTeX source code can be found here (PDF)**](https://github.com/OJ167/Thesis)
 
 [**➡️ Analysis codes and Notebooks can be found in this repository**](https://github.com/OJ167/Coding)
 
